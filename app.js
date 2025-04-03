@@ -9,7 +9,7 @@ function textoNaTela(tag, texto) {
 }
 
 function mensagemInicial() {
-textoNaTela('h1', 'Jogo do bicho');
+textoNaTela('h1', 'Jogo do número secreto');
 textoNaTela('p', 'Selecione um numero de 1 a 10');
 }
 
