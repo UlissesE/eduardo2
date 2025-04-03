@@ -1,17 +1,13 @@
-# Nome do Projeto
+# Jogo do número secreto
 
-Descrição breve do projeto.
+Um jogo onde o computador escolhe aleatóriamente um número, e o usuário deve adivinhar qual o número escolhido. A cada novo jogo, um número novo é escolhido
 
 ## 📌 Funcionalidades
-- [x] Funcionalidade 1
-- [x] Funcionalidade 2
-- [ ] Funcionalidade futura
+- [x] Chutar número
+- [x] Reiniciar o jogo
+
 
 ## 🚀 Tecnologias Utilizadas
-- [Linguagem/Framework 1]
-- [Linguagem/Framework 2]
-
-## 📦 Instalação
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+- HTML
+- CSS
+- JavaScript
